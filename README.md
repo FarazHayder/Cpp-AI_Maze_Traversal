@@ -36,4 +36,4 @@ g++ AI_Maze_Traversal.cpp -o AI_Maze_Traversal
 Contributions to this project are welcome! If you have any suggestions for improvements or new features, feel free to open an issue or submit a pull request.
 
 ## Author
-This AI Maze Traversal C++ program was created by @FarazHayder.
+This AI Maze Traversal C++ program was created by Faraz Hayder.
